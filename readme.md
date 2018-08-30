@@ -1,0 +1,1 @@
+Updated quiz app to be more ally compliant by changing font color and adding language tag to html.
